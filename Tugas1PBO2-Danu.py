@@ -133,6 +133,6 @@ if __name__ == "__main__":
    while(True):
       show_menu(db)
 
-#Haris Iskandar
-#200511104
+#Danu Sulaeman
+#200511114
 #R2
